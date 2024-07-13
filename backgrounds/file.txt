@@ -1,0 +1,9 @@
+1. set up the game;
+2. set up the player;
+3. set the controls for the player;
+4. set the state design pattern;
+5. set up the backgorund;
+6. set up the speed of background wrt player;
+7. set up the enemies;
+9. set up the special effects;
+10. set up score and other  things;
